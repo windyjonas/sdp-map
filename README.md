@@ -1,6 +1,6 @@
 # SDP Map
 
-I created this project to learn more react and som Google Maps API stuff.
+I created this project to learn more react and some Google Maps API stuff.
 The usefulness of the result is quite, let's say, limited, it displays a map of places where there has been a straydog party.
 (Don't ask).
 But maybe some of the code can be useful somewhere else, to somebody.
