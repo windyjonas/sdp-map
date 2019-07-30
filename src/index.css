@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.year-filter {
+	margin: 0px 0 0 10px;
+	padding: 2px 2px 2px 5px;
+	background-color: white;
+	font-size: 12px;
+	border: 1px #f0f0f0 solid;
+}
+.year-filter label {
+	width: 105px;
+	display: inline-block;
+}
+.toggle-filter {
+	margin: 5px 0 0 10px;
+}
+
+@media only screen and (max-width : 1024px) {
+	.year-name {
+		display: none;
+	}
+
+	.year-filter label {
+		width: 45px;
+		font-size: 10px;
+	}
+}
