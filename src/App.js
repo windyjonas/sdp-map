@@ -35,7 +35,8 @@ export class MapContainer extends Component {
               {latitude: 53.1998817, longitude: 5.8013256, name: 'Leeuwarden', year: '2018'},
               {latitude: 42.899814, longitude: 12.0283849, name: 'Umbria', year: '2019'},
               {latitude: 63.458978, longitude: 11.079211, name: 'Hegra', year: '2020'},
-              {latitude: 39.436327, longitude: 2.984552, name: 'Campos', year: '2021'}
+              {latitude: 39.436327, longitude: 2.984552, name: 'Campos', year: '2021'},
+              {latitude: 63.4957776, longitude: 11.3119118, name: 'Beitlandet', year: '2022'}
             ],
       showingInfoWindow: false,  //Hides or the shows the infoWindow
       activeMarker: {},          //Shows the active marker upon click
